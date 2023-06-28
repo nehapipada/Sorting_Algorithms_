@@ -8,3 +8,4 @@ def unsorted_list():
 def test_selection_sort(unsorted_list):
     s1 = selection_sort(unsorted_list)
     assert s1 == [1, 2, 3, 4, 5, 6, 7, 8, 9]
+#selection_sort
